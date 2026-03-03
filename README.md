@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tests](https://img.shields.io/badge/Tests-64%20passing-22c55e?style=for-the-badge)](tests/)
 
-*Superteam Ireland · March 2026 · $1,000 USDG Bounty*
+*Superteam Ireland · March 2026 ·*
 
 ---
 
