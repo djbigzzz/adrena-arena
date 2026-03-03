@@ -2,7 +2,7 @@
 
 Mission-based competition layer for Adrena, built for the [Adrena x Autonom Superteam Earn Bounty](https://earn.superteam.fun/listing/adrena-x-autonom-trading-competition-design-and-development/).
 
-**Live demo:** [https://lustrous-treacle-bd3093.netlify.app](https://adrena-arena.netlify.app/)
+**Live demo:** https://adrena-arena.netlify.app/
 
 ---
 
