@@ -12,7 +12,7 @@
 [![Tests](https://img.shields.io/badge/Tests-64%20passing-22c55e?style=for-the-badge)](tests/)
 
 *Superteam Ireland · March 2026 ·*
-
+Galin Dimitrov
 ---
 
 **[View Live Demo](https://adrena-arena.netlify.app)** &nbsp;·&nbsp; **[Design Doc](docs/adrena-arena-design-doc.docx)** &nbsp;·&nbsp; **[Test Report](docs/adrena-arena-test-results.docx)**
