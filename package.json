@@ -1,0 +1,34 @@
+{
+  "name": "adrena-arena",
+  "version": "1.0.0",
+  "description": "Adrena Arena — Mission-based competition module. Superteam Earn Bounty submission.",
+  "type": "module",
+  "scripts": {
+    "test":       "vitest run",
+    "test:watch": "vitest",
+    "test:ui":    "vitest --ui",
+    "build":      "tsc --noEmit",
+    "indexer":    "ts-node indexer/src/index.ts",
+    "typecheck":  "tsc --noEmit"
+  },
+  "dependencies": {
+    "@solana/web3.js":               "^1.95.3",
+    "@triton-one/yellowstone-grpc":  "^1.0.0",
+    "pg":                            "^8.13.1",
+    "dotenv":                        "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node":   "^22.0.0",
+    "@types/pg":     "^8.11.10",
+    "typescript":    "^5.7.2",
+    "vitest":        "^2.1.8",
+    "ts-node":       "^10.9.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/YOUR-USERNAME/adrena-arena"
+  }
+}
